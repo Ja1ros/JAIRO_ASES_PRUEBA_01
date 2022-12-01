@@ -62,49 +62,17 @@
         android:inputType="number" />
 
     <TextView
-        android:id="@+id/tvEntera"
+        android:id="@+id/tvNumero"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="TextView" />
 
     <EditText
-        android:id="@+id/etEntera"
+        android:id="@+id/etNumero"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number" />
-
-    <TextView
-        android:id="@+id/tvResiduo"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
-
-    <EditText
-        android:id="@+id/etResiduo"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="number" />
-
-    <TextView
-        android:id="@+id/tvInvertido"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
-
-    <EditText
-        android:id="@+id/etInvertido"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="number" />
-
-    <Button
-        android:id="@+id/buttonNext"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Button" />
 
     <Button
         android:id="@+id/buttonCerrar"
